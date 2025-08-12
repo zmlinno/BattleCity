@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zhangmulin/Desktop/CS/C++/Project/C++Video/src",
+      "program": "/Users/zhangmulin/Desktop/CS/C++/Project/C++Video/src/build/Debug/outDebug"
+    }
+  ]
+}
